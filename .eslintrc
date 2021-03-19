@@ -34,8 +34,12 @@
         "react/jsx-space-before-closing": "error",
         "space-infix-ops": "error",
         "no-unneeded-ternary": "error",
-        "react/prop-types": 0,
-        "allowAllPropertiesOnSameLine": 0
+        "allowAllPropertiesOnSameLine": 0,
+        "react/no-did-update-set-state": "error",
+        "react/no-unknown-property": "error",
+        "react/no-unused-prop-types": "error",
+        "react/prop-types": "error",
+        "react/react-in-jsx-scope": "error"
     },
     "env": {
         "es6": true
